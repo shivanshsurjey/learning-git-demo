@@ -1,2 +1,3 @@
 # learning-git-demo
-Just learning git my first repository
+Just learning git. 
+This is my first trial repository
